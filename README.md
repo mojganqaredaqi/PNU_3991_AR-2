@@ -4,7 +4,7 @@
 
 - [PNU_3991_AR](https://github.com/zeinabeshaghiyan/PNU_3991_AR)
 - [Resume]()
-- [Sop]()
+- [Sop](https://github.com/zeinabeshaghiyan/Sop/blob/main/README.md)
 - [github](https://github.com/zeinabeshaghiyan)
 
 -------------------
